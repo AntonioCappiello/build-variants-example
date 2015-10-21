@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuildVariantsExample</string>
+    <string name="welcome_message">Welcome to the free version!</string>
+</resources>
